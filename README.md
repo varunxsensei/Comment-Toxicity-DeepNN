@@ -100,4 +100,5 @@ interface.launch(share=True)
 
 ## 📬 Connect with Me
 
-If you’re working in NLP or AI, let’s connect on [LinkedIn]((https://www.linkedin.com/in/varun-saxena-5678b5340/)) and collaborate!
+📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/varun-saxena-5678b5340/)
+
